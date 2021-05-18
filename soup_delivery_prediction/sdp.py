@@ -33,4 +33,4 @@ for r in D:
     print(r, N[r], D[r])
 
 print("523, 3, 0" , 'maybe orders = ', prog(523, 3, 0))
-
+print('of')
